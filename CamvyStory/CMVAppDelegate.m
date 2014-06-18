@@ -8,7 +8,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     
-    //Google Analytics
+    //Google Analytics commented out for development
     
     //[GAI sharedInstance].trackUncaughtExceptions = YES;
     
